@@ -1,7 +1,0 @@
-Any participating users must opt one person into utilising the server tool for other clients to connect to. As the host, you may connect to the server tool using the client by simply entering your loopback address as well as this program's standard port, port 80.
-
-To utilise this tool via the internet, I recommend using Hamachi to initialise a virtual private network.
-
-Due to this tool no longer being under development, optimal security procedures may not be in place, so please do not share any sensitive information via public networks or use within a network that may compromise the security of other people.
-
-Use at your own risk. Thank you for viewing my software.
